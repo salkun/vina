@@ -1,0 +1,68 @@
+body {
+    background: linear-gradient(#745 0%, #3f6a8dd8 40%, #3f6a8dd8 100%);
+}
+.profile {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    padding-top: 10px;
+}
+.vinarizkyutami {
+    width:300px;
+    transform: translateY(-5px);
+}
+.profile h1 {
+    color: ghostwhite;
+    transform: translateY(-5px);
+}
+.profile h4 {
+    color: ghostwhite;
+}
+.biodata {
+    background: linear-gradient( rgb(255, 255, 255) 0%, #8b8bccd5 40%, rgba(253, 252, 253, 0) 100%);
+    background-color:whitesmoke;
+    padding-top: 80px;
+}
+.biodata h5 {
+    background:linear-gradient(#745 0%, #3f6a8dd8 60%, #3f6a8dd8 0%);
+     color: white;
+     margin-top: 100px;
+}
+.biodata h6 {
+     background:linear-gradient(#745 0%, #3f6a8dd8 60%, #3f6a8dd8 0%);
+     color: white;
+     margin-top: 40px;
+}
+.Experience {
+    background: linear-gradient( rgb(255, 255, 255) 0%, #fefeffec 40%, rgba(253, 253, 253, 0) 100%);
+    color: black;
+    margin-top: -5px;
+    padding-top: 55px;
+}
+.Experience h6 {
+    background:linear-gradient(#745 0%, #3f6a8dd8 60%, #3f6a8dd8 0%);
+     color: white;
+     padding-bottom: 20px;
+}
+
+.footer {
+    color:black;
+    background-color: ghostwhite;
+    margin-top: -150px; 
+    padding-bottom: 40px;   
+}
+.education h5 {
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+.card-body {
+    background:linear-gradient(#745 0%, #3f6a8dd8 60%, #3f6a8dd8 0%);
+}
+.card-title {
+    color: white;
+}
+.card a {
+    color: white;
+}  
